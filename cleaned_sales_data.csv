@@ -1,0 +1,9 @@
+Order_ID,Date,Region,Category,Product,Units_Sold,Unit_Price,Total_Revenue
+101,2026-01-05,North,Electronics,Laptop,5.0,800.0,4000.0
+102,2026-01-12,South,Furniture,Desk Chair,12.0,150.0,1800.0
+103,2026-01-18,East,Electronics,Phone,8.0,600.0,4800.0
+104,2026-02-02,North,Office,Printer,4.0,200.0,800.0
+105,2026-02-10,West,Furniture,Bookshelf,7.0,120.0,840.0
+106,2026-02-15,Unknown,Electronics,Monitor,10.0,250.0,2500.0
+107,2026-02-20,East,Office,Desk Lamp,15.0,360.0,5400.0
+108,2026-02-25,South,Electronics,Tablet,8.0,400.0,3200.0
